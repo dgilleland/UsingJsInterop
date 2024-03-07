@@ -1,0 +1,6 @@
+h1::after {
+    content: "2";
+    border: solid thin green;
+    color: green;
+    border-radius: .5em;
+}
