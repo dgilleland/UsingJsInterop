@@ -1,0 +1,3 @@
+# Using JSInterop with Blazor (.NET8)
+
+In order to properly grok the whole JSInterop thing with Blazor, I've created a minimal proof-of-concept project based on the empty Blazor template (`dotnet new blazor -e`). Here's what I've learned...
